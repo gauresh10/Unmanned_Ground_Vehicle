@@ -19,8 +19,11 @@ Contains structural dimensions of UGV, tools, Literature survey, Details, Refere
 # System Block
 
 * Block diagram of BS
+
 ![image](https://github.com/gauresh10/Unmanned_Ground_Vehicle/blob/master/Images/bs.jpg)
+
 * Block diagram of UGV
+
 ![image](https://github.com/gauresh10/Unmanned_Ground_Vehicle/blob/master/Images/ugvside.jpg)
 
 
