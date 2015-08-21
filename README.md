@@ -26,6 +26,21 @@ Contains structural dimensions of UGV, tools, Literature survey, Details, Refere
 
 ![image](https://github.com/gauresh10/Unmanned_Ground_Vehicle/blob/master/Images/ugvside.jpg)
 
+# Technologies used
+* Java
+* OpenCV
+* Arduino Java
+
+# Software tools
+* Processing IDE v 2.xx
+* Arduino IDE v 1.5 or later
+* Zigbee XCTU with drivers
+
+# Electronic components
+* 1. Arduino UNO or MEGA 2560
+* 2. Zigbee S2 or S2 Pro 
+* 1. Wireless HD camera
+* 1. Digital flash lights
 
 
 
